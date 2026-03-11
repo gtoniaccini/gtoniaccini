@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Gian Marco Toniaccini
 
-<!--
-**gtoniaccini/gtoniaccini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on Java, Spring Boot and Angular.
 
-Here are some ideas to get you started:
+Based in Florence, Italy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm a full stack developer with experience in building web applications with Java, Spring Boot and Angular.
+
+I enjoy working on backend architecture and APIs, with a strong focus on clean code and simple, effective solutions to complex problems.
+
+## Tech stack
+
+- Java
+- Spring Boot
+- Angular
+- TypeScript
+- REST APIs
+- SQL
+- Git
+
+## Current focus
+
+- Building full stack applications with Java, Spring Boot and Angular
+- Improving backend design and API development
+- Learning more about event-driven architecture and distributed systems
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/gian-marco-toniaccini-70051318a
